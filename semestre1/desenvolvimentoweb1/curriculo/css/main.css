@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(226, 225, 224);
+}
+
+#main{
+    margin: 0 auto;
+    width: 90%;
+}
+
+h1{
+    text-align: center;
+}
+
+#dados-contato, #foto{
+    float: left;
+}
+
+#dados-contato{
+    width: 70%;
+}
+
+#foto{
+    width: 30%;
+    text-align: right;
+}
+
+#foto img{
+    width: 150px;
+    height: 150px;
+
+}
+
+#formacao{
+    clear: left;
+}
+
+#formacao p{
+    margin: 4px;
+}
+
+#lista{
+    color: #0000ff;
+}
+
+.subtitulo-formacao{
+    padding: 1%;
+}
+
